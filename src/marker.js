@@ -1,7 +1,7 @@
 const mapbox = require("mapbox-gl");
 
 const iconURLs = {
-    hotels: "http://i.imgur.com/D9574Cu.png",
+    hotels: "http://chittagongit.com/images/hotel-icon-map/hotel-icon-map-18.jpg",
     restaurants: "http://i.imgur.com/cqR6pUI.png",
     activities: "https://cdn2.iconfinder.com/data/icons/circular-icons-line/82/Circular_Destination_Marker-512.png"
 }
