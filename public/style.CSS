@@ -3,12 +3,18 @@
 }
 
 body {
-  margin: 0;
+ margin: 0;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background-color: #c1b5ad;
+  background-color: #c1b5ad; 
+  
 }
 
 #map {
   height: 100vh;
   width: 100vw;
 }
+/* 
+#hello{
+  width: 25px;
+
+} */
